@@ -53,5 +53,7 @@ Basic unit tests are provided in the tests folder. To run these steps simply run
 phpunit --bootstrap= src/autoload.php tests/MyDateTest.php
 ```
 
+Notes
+-----
 If you create new class files be sure to update the src/autoload.php file to load these for the tests.
 
