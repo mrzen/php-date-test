@@ -42,7 +42,7 @@ Getting Started
 * Fork and clone this repository
 * From the root run `composer install`
 * Start with the src/MyDate.php file and code until you are satisfied
-* Submit a pull request with your completed solution
+* ZIP up your solution and send it in
 
 
 Testing
